@@ -1,1 +1,1 @@
-# Java_Hospital_Management-autonomous-_System
+# Java Hospital Management Autonomous System
